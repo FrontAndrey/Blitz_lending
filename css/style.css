@@ -363,7 +363,7 @@ margin-top: 45px;
 	grid-column-end: 2;
 	grid-row-start: 1;
 	grid-row-end: 3;
-	background: url('/img/body/life_ned.png') center no-repeat;
+	background: url('../img/body/life_ned.png') center no-repeat;
 	background-size:cover;
 	z-index: -3;
 }
@@ -387,13 +387,13 @@ margin-top: 45px;
 }
 
 .service-item-2 {
-	background: url('/img/body/stonck_ned.png') center no-repeat;
+	background: url('../img/body/stonck_ned.png') center no-repeat;
 	background-size:cover;
 	z-index: -3;
 }
 
 .service-item-3 {
-	background: url('/img/body/invest_op.png') center no-repeat;
+	background: url('../img/body/invest_op.png') center no-repeat;
 	background-size:cover;
 	z-index: -3;
 }
@@ -401,7 +401,7 @@ margin-top: 45px;
 .service-item-4 {
 	grid-column-start: 2;
 	grid-column-end: 4;
-	background: url('/img/body/ship.png') center no-repeat;
+	background: url('../img/body/ship.png') center no-repeat;
 	background-size:cover;
 	z-index: -3;
 }
@@ -409,14 +409,14 @@ margin-top: 45px;
 .service-item-5 {
 	grid-column-start: 1;
 	grid-column-end: 3;
-	background: url('/img/body/hands.png') center no-repeat;
+	background: url('../img/body/hands.png') center no-repeat;
 	background-size:cover;
 	z-index: -3;
 	max-width: 745px;
 }
 
 .service-item-6 {
-	background: url('/img/body/concierge.png') center no-repeat;
+	background: url('../img/body/concierge.png') center no-repeat;
 	background-size:cover;
 	z-index: -3;
 	min-width: 385px;
@@ -460,6 +460,7 @@ margin-top: 45px;
 	font-size: 16px;
 	line-height: 17px;
 	color: #000000;
+	font-family: 'Geometria', sans-serif;
 }
 
 .price-option-item1 {
@@ -687,7 +688,7 @@ margin-top: 45px;
 .direction-cart-elem {
 	width: 4px;
 	height: 261px;
-	background: url('/img/body/cart/Vector.svg') no-repeat;
+	background: url('../img/body/cart/Vector.svg') no-repeat;
 	position: relative;
 	top: 11px;
 	left: -1px;
@@ -697,7 +698,7 @@ margin-top: 45px;
 .direction-cart-elem1 {
 	width: 4px;
 	height: 261px;
-	background: url('/img/body/cart/Vector.svg') no-repeat;
+	background: url('../img/body/cart/Vector.svg') no-repeat;
 	position: relative;
 	top: 19px;
 	margin-right: 2px;
@@ -705,7 +706,7 @@ margin-top: 45px;
 .direction-cart-elem2 {
 	width: 4px;
 	height: 261px;
-	background: url('/img/body/cart/Vector.svg') no-repeat;
+	background: url('../img/body/cart/Vector.svg') no-repeat;
 	position: relative;
 	top: 26px;
 }
